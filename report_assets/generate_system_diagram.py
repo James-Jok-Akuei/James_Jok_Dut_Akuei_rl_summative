@@ -1,3 +1,4 @@
+// This file has been removed as per instructions.
 from __future__ import annotations
 
 import os
