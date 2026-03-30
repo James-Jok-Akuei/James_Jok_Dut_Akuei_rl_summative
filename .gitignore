@@ -17,3 +17,5 @@ results/*/*/
 plots/refinement/
 plots/*/*/
 models/refinement/
+
+report_assets/
