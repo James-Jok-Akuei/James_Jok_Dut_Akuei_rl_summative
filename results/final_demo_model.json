@@ -1,0 +1,8 @@
+{
+  "algorithm": "a2c",
+  "source": "sweep_best",
+  "run_name": "a2c_run_02",
+  "mean_reward": 352.28315213583465,
+  "success_rate": 0.9,
+  "model_path": "/Users/apple/Documents/MLAssignmentsFolder/Mission-Based-Reinforcement-Learning/models/a2c/a2c_run_02/best_model.zip"
+}

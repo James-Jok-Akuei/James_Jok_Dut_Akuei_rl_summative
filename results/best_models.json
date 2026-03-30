@@ -1,0 +1,42 @@
+{
+  "dqn": {
+    "run_name": "dqn_run_05",
+    "mean_reward": 274.06524926757737,
+    "success_rate": 0.0,
+    "convergence_episode": 1659,
+    "metrics_path": "/Users/apple/Documents/MLAssignmentsFolder/Mission-Based-Reinforcement-Learning/results/dqn/dqn_run_05/episode_metrics.csv",
+    "progress_path": "/Users/apple/Documents/MLAssignmentsFolder/Mission-Based-Reinforcement-Learning/results/dqn/dqn_run_05/progress.csv",
+    "model_path": "/Users/apple/Documents/MLAssignmentsFolder/Mission-Based-Reinforcement-Learning/models/dqn/dqn_run_05/best_model.zip",
+    "generalization_success_rate": 0.0
+  },
+  "reinforce": {
+    "run_name": "reinforce_run_08",
+    "mean_reward": 89.83776952094108,
+    "success_rate": 0.0,
+    "convergence_episode": null,
+    "metrics_path": "/Users/apple/Documents/MLAssignmentsFolder/Mission-Based-Reinforcement-Learning/results/reinforce/reinforce_run_08/episode_metrics.csv",
+    "progress_path": "/Users/apple/Documents/MLAssignmentsFolder/Mission-Based-Reinforcement-Learning/results/reinforce/reinforce_run_08/progress.csv",
+    "model_path": "/Users/apple/Documents/MLAssignmentsFolder/Mission-Based-Reinforcement-Learning/models/reinforce/reinforce_run_08/best_model.pt",
+    "generalization_success_rate": 0.0
+  },
+  "ppo": {
+    "run_name": "ppo_run_02",
+    "mean_reward": 281.2399902524058,
+    "success_rate": 0.6,
+    "convergence_episode": 971,
+    "metrics_path": "/Users/apple/Documents/MLAssignmentsFolder/Mission-Based-Reinforcement-Learning/results/ppo/ppo_run_02/episode_metrics.csv",
+    "progress_path": "/Users/apple/Documents/MLAssignmentsFolder/Mission-Based-Reinforcement-Learning/results/ppo/ppo_run_02/progress.csv",
+    "model_path": "/Users/apple/Documents/MLAssignmentsFolder/Mission-Based-Reinforcement-Learning/models/ppo/ppo_run_02/best_model.zip",
+    "generalization_success_rate": 0.6
+  },
+  "a2c": {
+    "run_name": "a2c_run_02",
+    "mean_reward": 352.28315213583465,
+    "success_rate": 0.9,
+    "convergence_episode": 1010,
+    "metrics_path": "/Users/apple/Documents/MLAssignmentsFolder/Mission-Based-Reinforcement-Learning/results/a2c/a2c_run_02/episode_metrics.csv",
+    "progress_path": "/Users/apple/Documents/MLAssignmentsFolder/Mission-Based-Reinforcement-Learning/results/a2c/a2c_run_02/progress.csv",
+    "model_path": "/Users/apple/Documents/MLAssignmentsFolder/Mission-Based-Reinforcement-Learning/models/a2c/a2c_run_02/best_model.zip",
+    "generalization_success_rate": 0.9
+  }
+}
