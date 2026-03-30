@@ -96,12 +96,6 @@ Run the best final model:
 .venv/bin/python main.py --registry-path results/final_demo_model.json --export-trace
 ```
 
-## Notes
-
-- `README.md` is the main documentation file kept in the repository.
-- Report source files are excluded from Git tracking.
-- The repository includes code, trained models, plots, and summary outputs needed to reproduce the project results.
-
 ## Author
 
 James Jok Dut Akuei
